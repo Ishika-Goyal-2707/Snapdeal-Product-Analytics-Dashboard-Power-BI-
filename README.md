@@ -75,7 +75,7 @@ Evaluate promotional discount behavior and estimate promotional lift using avail
 
 ### Screenshot
 
-![Task 2](Task%202.png)
+
 
 ---
 
