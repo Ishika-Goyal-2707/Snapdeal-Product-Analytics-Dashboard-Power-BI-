@@ -112,7 +112,7 @@ Identify products creating financial risk due to high discounts, low ratings, an
 
 ### Screenshot
 
-
+![Task 4](Task%204.png)
 
 ---
 
